@@ -1,0 +1,31 @@
+body {
+	max-width: 1000px;
+	margin: auto;
+	font-family: 'Mada', sans-serif;
+	background-color: lavender;
+}
+
+h2 {
+	color: lightseagreen;
+}
+
+#landing {
+	text-align: center;
+	padding-top: 100px;
+	margin-bottom: 100px;
+}
+
+section {
+	margin-top: 0px;
+	padding-left: 20px;
+}
+
+p {
+	font-size: 1.1em;
+	font-weight: lighter;
+}
+
+img {
+	border-radius: 50%;
+}
+
