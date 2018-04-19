@@ -5,14 +5,14 @@
 	<link href="https://fonts.googleapis.com/css?family=Mada:300" rel="stylesheet">
 	<link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
 
-	<div id="landing">
+	
+    <div id="landing">
 		<h1>Hi! My name is Paul Farcasanu.</h1>
 
 		<img src="me.jpg"'
-			height="200px" alt="picture of me">
+			height="200px" alt="picture of me" onclick="changeBackground();">
 
 		<div id="blurb">
 			<p>I'm a Freshman studying Computer Science at Northwestern University.</p>
@@ -23,8 +23,8 @@
 		</div>
 	</div>
 
-	<section>
-		<h2>Skills</h2>
+  	<section>
+	<h2>Skills</h2>
 		<p class="lead">These are things that I am good at</p>
 		<ul>
 			<li>HTML</li>
@@ -50,9 +50,16 @@
 			<li>Coded an iOS app that tracks students' attendance.</li>
 			<li>Implemened Tetris in Python.</li>
 		</ol>
-	</section>
+	</section> 
+
+	<script type="text/javascript">
+		const colors = ["palegreen", "lightcyan", "papayawhip", "lavender"];
+		function changeBackground() {
+			let colorIndex = Math.floor(Math.random() * colors.length);
+			document.body.style.backgroundColor = colors[colorIndex];
+		}
+	</script>
 
 
 </body>
-
 </html>
