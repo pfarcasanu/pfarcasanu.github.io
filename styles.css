@@ -6,18 +6,7 @@ body {
 }
 
 h2 {
-	color: lightseagreen;
-}
-
-#landing {
-	text-align: center;
-	padding-top: 100px;
-	margin-bottom: 100px;
-}
-
-section {
-	margin-top: 0px;
-	padding-left: 20px;
+	color: darkslategrey;
 }
 
 p {
@@ -27,5 +16,25 @@ p {
 
 img {
 	border-radius: 50%;
+}
+
+.carousel {
+  position: relative;
+  min-width: 500px;
+  height: 600px;
+}
+
+#first {
+	text-align: center;
+	padding-top: 100px;
+}
+
+#second {
+  padding-top: 210px;
+  padding-left: 150px;
+}
+
+#intro {
+	margin-top: 10px;
 }
 
