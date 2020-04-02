@@ -48,7 +48,7 @@ application. Tools: .NET, C#
  - Tools: CoffeeScript, Mustache, Keystone, ReactJS
 
 ## Skills
- - **Languages:** C, C#, C++, HTML, JavaScript, PHP, Perl, PowerShell, Python, Swift, T-SQL
- - **Platforms:** Windows, Unix, Azure Utility Cloud
+ - **Languages:** C, C#, C++, HTML, JavaScript, PHP, Perl, PowerShell, Python, T-SQL
+ - **Platforms:** Windows, Unix, Azure Utility Cloud, Firebase
  - **Frameworks:** .NET, ReactJS, BootStrap, Django
  - **Technologies:** Git, Jenkins, MATLAB/Octave, Arduino, Excel
