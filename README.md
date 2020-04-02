@@ -1,2 +1,2 @@
-# pfarcasanu.github.io
-my personal website
+# Paul Farcasanu
+My personal website. 
