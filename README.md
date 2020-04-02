@@ -39,7 +39,7 @@ application. Tools: .NET, C#
  - Tools: ReactJS, Django, Apache2
 
 #### Foster Care Charity
- - Worked in a team of two to build a trivia web application that raises awareness for lives touched by foster care. Performed requirements collection, technical design, implementation, deployment design and documentation. 
+ - Worked in a team of two to build a trivia web application that raises awareness for lives touched by foster care. Performed requirements collection, technical design, implementation, deployment design and documentation
  - Tools: PHP, Python, HTML, JavaScript, REST API, BootStrap
 
 #### Mayfest Productions
