@@ -4,7 +4,7 @@
 ## Education
 
 #### Northwestern University (June 2021)
- - Bachelor of Science in Computer Science | 3.99/4.0
+ - **Bachelor of Science in Computer Science \| 3.99/4.0**
  - Minor in Economics
  - Dean's List with High Honors
  - Organizations: Mayfest Productions, .dev Team Lead, Delta Chi Executive Board
@@ -12,18 +12,18 @@
 ## Employment
 
 #### Relativity - Chicago, IL
- - Software Engineering Intern (June 2019 - September 2019)
+ - **Software Engineering Intern** (June 2019 - September 2019)
  - Built pipelines to automate creation and deployment of a monitoring service to the Azure cloud. Tools: Azure, PowerShell, Batch, Jenkins, Pester, Mock
  - Templatized an application module and embedded it in the CI/CD process for rapid stream of development. Used dependency injection to refactor and unit test existing code, increasing line coverage by 12%. Tools: .NET, C#, NUnit, Mock, Jenkins
  - Extended API endpoint to save user recent activity in the new review tool. Tools: .NET, JavaScript
 
 #### Northwestern University – Evanston, IL
- - Computer Science Peer Mentor (January 2019 – Present)
+ - **Computer Science Peer Mentor** (January 2019 – Present)
  - Responsible for leading discussion sections, creating lesson plans, and grading exams.
  - Courses: Intro to Data Structures & Fundamentals of Computer Programming I & II
 
 #### TPP, LLC – Des Plaines, IL
- - Software Engineering Intern (June 2018 – September 2019)
+ - **Software Engineering Intern** (June 2018 – September 2019)
  - UI design and implementation of the registration module for the next gen cross-platform mobile banking application. Tools: Xamarin, C#, Android SDK
  - Implemented Organization/Store/User/Terminal management modules for a check cashing
 application. Tools: .NET, C#
@@ -32,7 +32,7 @@ application. Tools: .NET, C#
 
 #### SquadHaus
  - Lead a team of 4 to build a cloud-native roommate management app. [SquadHaus](https://squadhaus.firebaseapp.com/#/) helps users coordinate payments, chores, notes, and shared groceries. 
- - Tools: Firebase, NodeJS, React, Javascript. 
+ - Tools: Firebase, NodeJS, React, Javascript
 
 #### DxRank
  - Designed, implemented and deployed a collaborative recruitment tracker for Delta Chi. Facilitates tracking candidate metadata and feedback from multiple users. 
