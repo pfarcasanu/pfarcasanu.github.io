@@ -10086,7 +10086,6 @@ h3 {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
-  height: 100vh;
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
